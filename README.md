@@ -1,8 +1,50 @@
-# pandas-challenge
+# Pandas-Coding
 
-Below is my written report of observations from my analysis of HeroesOfPymoli Data
+## Heroes of Pymoli
+The challenge was taking on the role of analyst for an independent gaming company. I was assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-## Written Report
+
+The report was to include each of the following:
+
+### Player Count
+* Total Number of Players
+
+### Purchasing Analysis (Total)
+* Number of Unique Items
+* Average Purchase Price
+* Total Number of Purchases
+* Total Revenue
+
+### Gender Demographics
+* Percentage and Count of Male Players
+* Percentage and Count of Female Players
+* Percentage and Count of Other / Non-Disclosed
+
+### Purchasing Analysis (Gender)
+* The below each broken by gender
+  * Purchase Count
+  * Average Purchase Price
+  * Total Purchase Value
+  * Average Purchase Total per Person by Gender
+
+### Age Demographics
+* The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+  * Purchase Count
+  * Average Purchase Price
+  * Total Purchase Value
+  * Average Purchase Total per Person by Age Group
+
+### Top Spenders
+* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+
+### Most Popular Items
+* Identify the 5 most popular items by purchase count, then list (in a table):
+
+### Most Profitable Items
+* Identify the 5 most profitable items by total purchase value, then list (in a table):
+
+## Final Oservations
 ### Observations
 1. HeroesOfPymoli has 14% player base of females; however, females avg. spending  $0.40 more per person than males. This is an opportunity marketing showed look into.
 1. A majority of those purchasing products are 20-24 years of age (45% players) purchasing on average $3.05. Those between the ages of 35-39 (9% players) spend almost $0.55 more at $3.60. This maybe worth looking into.

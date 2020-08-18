@@ -1,11 +1,11 @@
 # Pandas-Coding
 
 ## Heroes of Pymoli
-The challenge was taking on the role of analyst for an independent gaming company. I was assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+During this challenge I was tasked to take on the role of analyst for an independent gaming company. I was assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
 
-The report was to include each of the following:
+The report was to include each of the following data tables:
 
 ### Player Count
 * Total Number of Players
@@ -36,7 +36,7 @@ The report was to include each of the following:
   * Average Purchase Total per Person by Age Group
 
 ### Top Spenders
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* Identify the top 5 spenders in the game by total purchase value, then list (in a table):
 
 ### Most Popular Items
 * Identify the 5 most popular items by purchase count, then list (in a table):
@@ -44,8 +44,8 @@ The report was to include each of the following:
 ### Most Profitable Items
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
 
-## Final Oservations
-### Observations
-1. HeroesOfPymoli has 14% player base of females; however, females avg. spending  $0.40 more per person than males. This is an opportunity marketing showed look into.
-1. A majority of those purchasing products are 20-24 years of age (45% players) purchasing on average $3.05. Those between the ages of 35-39 (9% players) spend almost $0.55 more at $3.60. This maybe worth looking into.
+## Final Analysis
+### Data Insights
+1. HeroesOfPymoli has 14% player base of females: however, females avg. spending  $0.40 more per person than males. This is an opportunity marketing showed look into.
+1. A majority of those purchasing products are 20-24 years of age (45% players) purchasing on average $3.05. Those between the ages of 35-39 (9% players) spend almost $0.55 more at $3.60. This may be worth looking into.
 1. The most profitable item for purchase is _Oathbreaker, Last Hope of the Breaking Storm_ which is the most bought item offered. This is an opportunity that HeroesOfPymoli should market on more.
